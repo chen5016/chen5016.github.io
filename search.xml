@@ -3,7 +3,7 @@
   <entry>
     <title>各大平台满血deepseek</title>
     <url>/2025/02/19/%E5%90%84%E5%A4%A7%E5%B9%B3%E5%8F%B0%E6%BB%A1%E8%A1%80deepseek/</url>
-    <content><![CDATA[<p>DeepSeek-R1大模型在各大生态平台的深度适配</p>
+    <content><![CDATA[<p>满血（671B）DeepSeek-R1大模型在各大生态平台的深度适配</p>
 <span id="more"></span>
 
 <table>
@@ -18,6 +18,11 @@
 <td>中国电信云电脑-AI应用中心</td>
 <td>无需注册，生成效果尚可但速度较慢，不支持上传文件</td>
 <td>-</td>
+</tr>
+<tr>
+<td>deepseek官网</td>
+<td>效果好，但服务器经常繁忙，支持上传文件</td>
+<td><a href="https://chat.deepseek.com/">https://chat.deepseek.com/</a></td>
 </tr>
 <tr>
 <td>问小白</td>
