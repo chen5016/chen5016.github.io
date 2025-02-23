@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2025/02/23/deepseek+WPS/</url>
+    <content><![CDATA[<h1 id="deepseek-不坑盒子：将deepseek功能接入wps-office"><a href="#deepseek-不坑盒子：将deepseek功能接入wps-office" class="headerlink" title="deepseek+不坑盒子：将deepseek功能接入wps&#x2F;office"></a>deepseek+不坑盒子：将deepseek功能接入wps&#x2F;office</h1><ol>
+<li><p>下载并安装不坑盒子：<a href="https://www.bukenghezi.com/">不坑盒子</a></p>
+</li>
+<li><p>将不坑盒子功能集成到word中</p>
+<ol>
+<li><p>wps：进入word，依次点击：文件下拉框、选择选项按钮，找到左侧信任中心，点击宏安全，安全级别选择低，确定之后重启word</p>
+</li>
+<li><p>office：进入word，依次点击：文件、首选项、信任中心、信任中心设置、启用所有宏，确定之后重启word</p>
+<span id="more"></span></li>
+</ol>
+</li>
+<li><p>重启后会在上面工具栏中出现“不坑盒子(Pro)”的选项：</p>
+<ol>
+<li>然后登录</li>
+<li>找到“灵感之窗”</li>
+<li>可在AIGC模块中找到自己想用的大模型，也可以通过添加标签，手动添加，将好用的大模型网址添加入其中</li>
+<li>然后点击使用即可</li>
+</ol>
+</li>
+<li><p>通过网页的功能，将大模型嵌入，可以使用网页版大模型支持的全部功能</p>
+</li>
+<li><p>大模型生成的内容可以双击即可导入word，效果如下：</p>
+</li>
+<li><p><img src="C:\Users\陈章辉\AppData\Roaming\Typora\typora-user-images\image-20250223215729799.png" alt="image-20250223215729799"></p>
+</li>
+<li><p>还有一键排版和OCR识别等多种智能功能，感兴趣的可以自行学习教程相关内容，主页有相关的学习内容，下载完成之后也会有不坑盒子说明书，感兴趣的可以自行学习</p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
     <title>各大平台满血deepseek</title>
     <url>/2025/02/19/%E5%90%84%E5%A4%A7%E5%B9%B3%E5%8F%B0%E6%BB%A1%E8%A1%80deepseek/</url>
     <content><![CDATA[<p>满血（671B）DeepSeek-R1大模型在各大生态平台的深度适配</p>
